@@ -13,3 +13,4 @@
     - creatSlice
     - configureStore
 
+<img width="1036" alt="image" src="https://user-images.githubusercontent.com/96061695/182016095-7c105855-8632-4749-8bbe-5b4d00c36200.png">
